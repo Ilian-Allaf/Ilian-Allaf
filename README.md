@@ -40,6 +40,6 @@
 # 📊 Some stats :
 
 <a href="https://github.com/Ilian-Allaf">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=TanguyLichau&theme=highcontrast&hide_border=true&currStreakLabel=e59e00" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TanguyLichau&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&exclude_repo=GuessTheFlag&title_color=e59e00" />
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Ilian-Allaf&theme=highcontrast&hide_border=true&currStreakLabel=e59e00" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ilian-Allaf&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&exclude_repo=GuessTheFlag&title_color=e59e00" />
  </a>
